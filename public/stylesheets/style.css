@@ -1,0 +1,31 @@
+body{
+  font-family:"Roboto";
+  font-weight: 300;
+}
+nav{
+  border:solid;
+  display:flex;
+  justify-content: center;
+  margin-top:25px;
+}
+header p {
+  padding: 0 20px;
+  margin: 0;
+  font-size:20px;
+}
+
+.jumbotron{
+  color:#ffffff;
+  justify-content: center;
+  align-items: center;
+  display:flex;
+  background-image: url('https://hd.unsplash.com/photo-1471712140923-26dcf671aa2a');
+  background-size: cover;
+  height: 600px;
+}
+img{
+  width: 100%;
+  height:300px;
+  border-radius:10%;
+  margin-bottom:20px;
+}
